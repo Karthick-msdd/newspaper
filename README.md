@@ -1,0 +1,1 @@
+A simple static newspaper-style web page built using HTML and CSS. This project demonstrates how to create a structured layout similar to a printed newspaper, focusing on typography, columns, and responsive design.
