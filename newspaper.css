@@ -1,0 +1,44 @@
+body{
+   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(255, 254, 249);
+    margin:0%;
+    padding: 0%;
+}
+
+
+.head1{
+    max-width: fit-content;
+    margin: 20px auto;
+    padding:30px;
+    box-shadow: 0 0 10px solid grey;
+}
+
+header{
+    text-align: center;
+}
+
+
+.Treading-News{
+    text-align: center;
+}
+
+.Subhead{
+    text-align: center;
+}
+
+.content{
+    column-rule-style: dashed;
+    display:flex;
+    gap:20px;
+}
+
+.column{
+    flex:1;
+    border-right: 1px solid grey;
+    padding-right: 20px;
+    column-rule-style: dashed;
+}
+
+
+
